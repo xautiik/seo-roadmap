@@ -4,6 +4,7 @@
 
 by *[Bella Falconi](https://github.com/bellafalconi)*
 
+
 ## Table of Contents
 
 1. [Keyword Research](#1-keyword-research)
@@ -54,6 +55,9 @@ by *[Bella Falconi](https://github.com/bellafalconi)*
    - [Video SEO](#92-video-seo)
    - [International SEO](#93-international-seo)
 10. [Milestones and Timeline](#milestones-and-timeline)
+
+[![SEO Roadmap](seo-roadmap-banner.png)](https://seoroadmap.dev)
+
 
 ## *Examples in this Roadmap*
 
