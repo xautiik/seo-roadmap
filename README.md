@@ -316,7 +316,7 @@ Throughout this SEO roadmap, practical examples are provided to help illustrate 
 
 ---
 
-### **Milestones and Timeline**
+## **Milestones and Timeline**
 
 | **Phase**              | **Tasks**                                                        | **Timeline** |
 | ---------------------- | ---------------------------------------------------------------- | ------------ |
@@ -328,6 +328,9 @@ Throughout this SEO roadmap, practical examples are provided to help illustrate 
 | Phase 6: Audits        | Regular audits, Competitor analysis, SEO tracking                | Monthly      |
 | Phase 7: Reporting     | Analytics, Search Console tracking, SEO metrics                  | Monthly      |
 
----
 
-By following this roadmap, your site should see gradual improvements in search rankings, organic traffic, and overall online visibility.
+
+## License
+
+*This project is governed by the guidelines outlined in the **[License.md](License.md)**, which defines the legal terms for use and distribution. We encourage all contributors to review our **[CONTRIBUTING.md](CONTRIBUTING.md)** for instructions on how to participate effectively, ensuring consistency and quality across submissions. Additionally, our **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** sets expectations for respectful and inclusive interactions within the community. Please take a moment to familiarize yourself with these documents before contributing.*
+
