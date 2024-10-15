@@ -1,4 +1,6 @@
-# SEO Roadmap
+SEO Roadmap  
+============
+[<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/seoroadmap/seo-roadmap)
 
 **The  SEO Roadmap** is a comprehensive, public guideline designed to help you create your own tailored SEO strategy. By following this roadmap, you can systematically enhance your website's search engine ranking and visibility. It covers all major areas of SEO, including **keyword research**, **on-page** and **technical optimization**, **off-page strategies**, and more, providing a structured path towards effective SEO planning.
 
